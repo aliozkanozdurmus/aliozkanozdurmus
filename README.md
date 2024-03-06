@@ -20,4 +20,4 @@
 - <code><img height="20" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></code>: <a href="https://www.linkedin.com/in/aliozkanozdurmus/">@aliozkanozdurmus</a>
 - <code><img height="20" alt="X" src="https://github.com/aliozkanozdurmus/aliozkanozdurmus/assets/109829260/e4a4ce0d-0f27-482f-82fe-07964caa833e"></code>: <a href="https://aliozkanozdurmus.medium.com/">@aliozkanozdurmus</a>
 
-<img src="https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg">
+<img src="bottom.svg">
