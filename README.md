@@ -13,6 +13,7 @@
 <img src="image.jpg">
 
 
+<img align="left" width="150" height="150" src="banner.svg"> 
 
 ### Find me around the web 🌎:
 
