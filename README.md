@@ -2,7 +2,7 @@
   <img src="image.jpg" style="border: 1px solid black">
 </kbd>
 
-<img src="[image.jpg](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)" style="border: 1px solid black">
+<img src="[image.jpg](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)">
 
 
 ### Hi there 👋
