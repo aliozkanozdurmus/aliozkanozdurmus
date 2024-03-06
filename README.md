@@ -1,4 +1,7 @@
 ![Skils](image.jpg)
+<kbd>
+  <img src="image.jpg">
+</kbd>
 ![load img](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)
 
 ### Hi there 👋
