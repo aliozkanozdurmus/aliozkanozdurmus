@@ -10,10 +10,15 @@
 - ⚡ Fun fact: ...
 
 
-### My Skils 🛠️:
+## My Skils 🛠️:
 <img align="right" width="150" height="150" src="banner2.svg">
-
-<img width="800" src="image.jpg">
+Adobe Creative Cloud Apps; Photoshop, Illustrator and Dreamveawer | 3D; Cinema4D (Digital Skills - Visual),
+cPanel, HTML; CSS and PHP; phpmyadmin (Digital Skills - Web), Dart; Flutter and Android Studio (Digital Skills - Mobile),
+CRM; Hubspot | Mail//Bulletin Marketing Tools; MailChimp, Sendinblue | Google Analytics, Admob | Semrush (Digital
+Skills - Marketing),
+Business Development | Business-to-Business (B2B) | Pricing Marketing and Business Strategy (Industry Knowledge),
+Project Management | Six Sigma | Kaizen | LEED and Sustainability | HUMINT (Industry Knowledge),
+Threat Identification, Investigations and Relationship Building | Analytical Thinking and Teamwork (Interpersonal Skills)
 
 
 
