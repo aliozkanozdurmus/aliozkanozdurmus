@@ -1,8 +1,7 @@
-<kbd>
-  <img src="image.jpg" style="border: 1px solid black">
-</kbd>
+![oorbs studio](image.jpg)
 
-<img src="https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg">
+![load img](https://raw.githubusercontent.com/dbbd59/dbbd59/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
