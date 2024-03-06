@@ -1,7 +1,7 @@
 <kbd>
   <img src="image.jpg" style="border: 1px solid black">
 </kbd>
-<img src="image.jpg" style="border: 1px solid black">
+<img src="image.jpg" style="border: 10px solid black">
 
 ### Hi there 👋
 
