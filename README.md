@@ -9,13 +9,19 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## My Skils 🛠️:
-<img src="image.jpg">
+
+### My Skils 🛠️:
+<img align="right" width="150" height="150" src="banner2.svg">
+
+<img width="800" src="image.jpg">
 
 
-<img align="left" width="150" height="150" src="banner.svg"> 
+
 
 ### Find me around the web 🌎:
+
+<img align="left" width="100" height="100" src="banner.svg"> 
+
 
 - <code><img height="20" alt="X" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png"></code>: <a href="https://twitter.com/ozkanozdurmus">@ozkanozdurmus</a>
 - <code><img height="20" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></code>: <a href="https://www.linkedin.com/in/aliozkanozdurmus/">@aliozkanozdurmus</a>
