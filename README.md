@@ -17,6 +17,7 @@ Business Development | Business-to-Business (B2B) | Pricing Marketing and Busine
 Project Management | Six Sigma | Kaizen | LEED and Sustainability | HUMINT (Industry Knowledge),
 Threat Identification, Investigations and Relationship Building | Analytical Thinking and Teamwork (Interpersonal Skills)
 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 
 
