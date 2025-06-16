@@ -1,47 +1,97 @@
-!-- MODERN & PROFESSIONAL MARKDOWN CV | ÖZKAN ÖZDURMUŞ -->
-
 <img align="right" src="https://avatars.githubusercontent.com/u/109829260?v=4" width="140" style="border-radius: 50%">
 
-# Özkan Özdurmuş
+# Ali Ozkan Ozdurmus
 
-***Business Development | B2B | Sustainability | Digital Marketing | Cybersecurity***
+### Digital Transformation | Sustainability | Artificial Intelligence | Project Management | B2B Business Development
 
 ---
 
 ## 🚀 About Me
 
-Innovative and tech-driven business development professional, passionate about bridging technology, sustainability, and creative strategy. I focus on delivering robust, sustainable, and impactful digital solutions in B2B markets. Adept at steering complex projects, developing actionable marketing strategies, and building resilient business relationships across industries.
+[cite_start]Passionate about driving digital transformation with a sustainable mindset. [cite_start]I combine strong technical expertise, hands-on project leadership, and a global business perspective to achieve measurable results. [cite_start]I thrive in dynamic, multinational environments. [cite_start]I specialize in AI technologies (LLMs, NLP, RAG), and am skilled in project management and business analysis to turn innovation into real business value. [cite_start]I am confident I can deliver sustainable, fast-future-ready solutions to your organization.
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Core Competencies
 
-- **Design & Visualization:**  
-  Adobe Photoshop, Illustrator, Dreamweaver | Cinema4D
-
-- **Web & Mobile Technology:**  
-  HTML, CSS, PHP, cPanel, phpMyAdmin | Dart, Flutter, Android Studio
-
-- **Marketing & CRM:**  
-  Google Analytics, AdMob, SEMrush | HubSpot, MailChimp, Sendinblue
-
-- **Business & Project Management:**  
-  B2B Development | Pricing Strategy | Project Management | Six Sigma | Kaizen | LEED & Sustainability | HUMINT
-
-- **Cybersecurity:**  
-  Metasploit (foundation level), Threat Analysis & Investigations
-
-- **Interpersonal & Leadership:**  
-  Analytical Thinking | Teamwork & Collaboration | Crisis/Relationship Management
+* [cite_start]**Project Management:** Agile and traditional IT project management (on-time, in-budget, high-quality delivery).
+* [cite_start]**Software Development:** Full lifecycle software, web, and mobile development.
+* [cite_start]**AI & Analytics:** AI-driven business analytics and process automation.
+* [cite_start]**Sustainability-Focused Solutions:** Design and implementation of sustainability- and compliance-focused IT platforms.
+* [cite_start]**Strategic Analysis:** Strategic requirements analysis and translation into practical, scalable IT solutions.
+* [cite_start]**Team Leadership:** Multicultural team leadership and effective cross-departmental collaboration.
 
 ---
 
-## 💼 Experience Snapshot
+## 🎓 Education
 
-- 🔭 Currently: Building solutions at **Invenire**
-- 🤝 Actively seeking: B2B sustainable platform collaborations
-- 🌱 Upskilling in: Metasploit & cybersecurity
-- 🌍 Languages: English and Turkish (fluent)
+* [cite_start]**Harvard University (HarvardX)** - Leaders Program, Boston USA, Distance Education (2023-2024) 
+    * [cite_start]Exercising Leadership: Foundational Principles 
+    * [cite_start]Technology Entrepreneurship: LAB to Market 
+* [cite_start]**Jan Kochanowski University**, Kielce, Poland - Exchange Student in Business Administration and Management (2019) 
+    * Full Scholarship | 3.96/4.0 GPA | [cite_start]EQF: 6 
+* [cite_start]**Hasan Kalyoncu University**, Gaziantep, Turkey - Bachelor's Degree in Business Administration and Management (2017-2021) 
+    * Full Scholarship | 2.99/4.0 GPA | [cite_start]EQF: 6 
+* [cite_start]**Ataturk University**, Turkey - Associate Degree in Department of Justice, Distance Education (2018-2019) 
+    * [cite_start]EQF: 5 
+
+---
+
+## 💼 Work Experience
+
+* **Founder** | [cite_start]Invenire Project Development and Software Services, Global (2023 - Present) 
+* **Project and Business Development Specialist** | [cite_start]Kara Holding, Gaziantep, Turkey (February 2023 - March 2025) 
+* **Project and Business Development Specialist** | [cite_start]Dur&Plast Medical Devices, Gaziantep, Turkey (July 2021 - May 2022) 
+* **Project Development Intern** | [cite_start]Regionalne Centrum Wolontariatu, Kielce, Poland (February 2021 - July 2021) 
+
+---
+
+## 💻 Technical Skills
+
+* [cite_start]**Adobe Creative Cloud Apps:** Photoshop, Illustrator 
+* [cite_start]**Web Technologies:** Node.js, Next.js, PHP, HTML, CSS, cPanel, phpMyAdmin, Wordpress 
+* [cite_start]**Mobile App Development:** Dart, Flutter and Android Studio 
+* **CRM & Marketing:** Hubspot | [cite_start]Google Analytics, Admob, Semrush 
+
+---
+
+## 💡 Projects
+
+* [cite_start]**Hukusis.com:** An AI-powered digital assistant platform designed for legal professionals, lawyers, and anyone involved in legal processes. [cite_start]Our goal is to minimize time loss and help you conduct legal research, document management, and decision-making processes more quickly and efficiently.
+* [cite_start]**Ecotrack - Track your Sustainability:** A web application for tracking and certifying eco-friendly materials in the textile sector. [cite_start]Users can showcase their sustainable practices with generated certificates. [cite_start]Prepared for INDITEX Group.
+* [cite_start]**Cryptocurrencies:** Scientific Research in Theory and Practice with The Report. [cite_start]In an international project based in Poland and Germany, I conducted research on the 2019 cryptocurrency market, presented findings at a conference, and received recognition through a certificate.
+
+---
+
+## 🏅 Certifications
+
+* [cite_start]**Digital Certifications:** "Learning Python" (Joe Marini) [cite: 11][cite_start], "Writing Emails People Want to Read" (Madecraft) [cite: 11][cite_start], "B2B Sales Foundations" (Robbie Kellman Baxter) [cite: 14][cite_start], "Marketing Fundamentals" (Drew Boyd) [cite: 14][cite_start], "Learning Salesforce for Admins Cert Prep" [cite: 14][cite_start], "Salesforce Essential Training".
+* [cite_start]**Management & Sustainability:** Six Sigma: Green Belt [cite: 11][cite_start], Six Sigma: White Belt [cite: 11][cite_start], "Stay Ahead in Sustainable Green Building" [cite: 11][cite_start], "Sustainability for Design, Construction, and Manufacturing".
+* [cite_start]**Personal Development:** Certificate of Entrepreneurship [cite: 11][cite_start], Certificate of Body Language and Diction [cite: 11][cite_start], Certificate of Leadership [cite: 11][cite_start], Certificate of Speaking in Front of the Community.
+* [cite_start]**Law & Finance:** Commercial Law & Start-Up Law [cite: 15][cite_start], Financial Literacy for Individuals [cite: 15][cite_start], Increasing Employee Engagement [cite: 15][cite_start], Importance of Contract in Commercial Life [cite: 15][cite_start], Production Management [cite: 15][cite_start], Secure Payment Systems in E-Commerce [cite: 15][cite_start], Cargo Processes in E-Commerce.
+* [cite_start]**Volunteer Certifications:** Youthpass - European Union Project (Raising Awareness of Racism and Xenophobia).
+
+---
+
+## 🗣️ Languages
+
+* [cite_start]**English:** Full Professional Proficiency 
+* [cite_start]**Turkish:** Native 
+* [cite_start]**Polish:** Elementary Proficiency 
+
+---
+
+## 🏆 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliozkanozdurmus&show_icons=true&theme=vision-friendly-dark" alt="Özkan's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliozkanozdurmus&theme=vision-friendly-dark" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-contributions-svg.vercel.app/api?username=aliozkanozdurmus&theme=dark" alt="GitHub Contributions"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+</p>
 
 ---
 
@@ -49,14 +99,7 @@ Innovative and tech-driven business development professional, passionate about b
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliozkanozdurmus/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://aliozkanozdurmus.medium.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ali.ozdurmus1@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/905466916820)
 
 ---
-
-## 🏆 GitHub Activity
-
-![Özkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozkanozdurmus&show_icons=true&theme=vision-friendly-dark)
-![GitHub Snake Animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
-
----
-
-<!-- END OF CV -->
