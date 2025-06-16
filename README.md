@@ -1,5 +1,3 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/109829260?v=4" width="140" style="border-radius: 50%">
-
 # Ali Ozkan Ozdurmus
 
 ### Digital Transformation | Sustainability | Artificial Intelligence | Project Management | B2B Business Development
@@ -65,10 +63,10 @@
 
 ## 🏅 Certifications
 
-* [cite_start]**Digital Certifications:** "Learning Python" (Joe Marini) [cite: 11][cite_start], "Writing Emails People Want to Read" (Madecraft) [cite: 11][cite_start], "B2B Sales Foundations" (Robbie Kellman Baxter) [cite: 14][cite_start], "Marketing Fundamentals" (Drew Boyd) [cite: 14][cite_start], "Learning Salesforce for Admins Cert Prep" [cite: 14][cite_start], "Salesforce Essential Training".
-* [cite_start]**Management & Sustainability:** Six Sigma: Green Belt [cite: 11][cite_start], Six Sigma: White Belt [cite: 11][cite_start], "Stay Ahead in Sustainable Green Building" [cite: 11][cite_start], "Sustainability for Design, Construction, and Manufacturing".
-* [cite_start]**Personal Development:** Certificate of Entrepreneurship [cite: 11][cite_start], Certificate of Body Language and Diction [cite: 11][cite_start], Certificate of Leadership [cite: 11][cite_start], Certificate of Speaking in Front of the Community.
-* [cite_start]**Law & Finance:** Commercial Law & Start-Up Law [cite: 15][cite_start], Financial Literacy for Individuals [cite: 15][cite_start], Increasing Employee Engagement [cite: 15][cite_start], Importance of Contract in Commercial Life [cite: 15][cite_start], Production Management [cite: 15][cite_start], Secure Payment Systems in E-Commerce [cite: 15][cite_start], Cargo Processes in E-Commerce.
+* [cite_start]**Digital Certifications:** "Learning Python": Joe Marini, "Writing Emails People Want to Read": Madecraft, "B2B Sales Foundations": Robbie Kellman Baxter, "Marketing Fundamentals": Drew Boyd, "Learning Salesforce for Admins Cert Prep: Salesforce Certified Administrator Course", "Salesforce Essential Training".
+* [cite_start]**Management & Sustainability:** Six Sigma: Green Belt, Six Sigma: White Belt, "Stay Ahead in Sustainable Green Building", "Sustainability for Design, Construction, and Manufacturing".
+* [cite_start]**Personal Development:** Certificate of Entrepreneurship, Certificate of Body Language and Diction, Certificate of Leadership, Certificate of Speaking in Front of the Community, Single Session Training and Participation Certificate - JOVEN Academia.
+* [cite_start]**Law & Finance:** Commercial Law & Start-Up Law, Financial Literacy for Individuals, Increasing Employee Engagement, Importance of Contract in Commercial Life, Production Management, Secure Payment Systems in E-Commerce, Cargo Processes in E-Commerce (SOUTHEASTERN ANATOLIA EXPORTERS' ASSOCIATIONS).
 * [cite_start]**Volunteer Certifications:** Youthpass - European Union Project (Raising Awareness of Racism and Xenophobia).
 
 ---
