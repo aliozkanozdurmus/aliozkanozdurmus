@@ -21,29 +21,6 @@ Passionate about driving digital transformation with a sustainable mindset. I co
 
 ---
 
-## 🎓 Education
-
-* **Harvard University (HarvardX)** - Leaders Program, Boston USA, Distance Education (2023-2024)
-    * Exercising Leadership: Foundational Principles
-    * Technology Entrepreneurship: LAB to Market
-* **Jan Kochanowski University**, Kielce, Poland - Exchange Student in Business Administration and Management (2019)
-    * Full Scholarship | 3.96/4.0 GPA | EQF: 6
-* **Hasan Kalyoncu University**, Gaziantep, Turkey - Bachelor's Degree in Business Administration and Management (2017-2021)
-    * Full Scholarship | 2.99/4.0 GPA | EQF: 6
-* **Ataturk University**, Turkey - Associate Degree in Department of Justice, Distance Education (2018-2019)
-    * EQF: 5
-
----
-
-## 💼 Work Experience
-
-* **Founder** | Invenire Project Development and Software Services, Global (2023 - Present)
-* **Project and Business Development Specialist** | Kara Holding, Gaziantep, Turkey (February 2023 - March 2025)
-* **Project and Business Development Specialist** | Dur&Plast Medical Devices, Gaziantep, Turkey (July 2021 - May 2022)
-* **Project Development Intern** | Regionalne Centrum Wolontariatu, Kielce, Poland (February 2021 - July 2021)
-
----
-
 ## 💻 Technical Skills
 
 * **Adobe Creative Cloud Apps:** Photoshop, Illustrator
