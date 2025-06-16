@@ -1,31 +1,62 @@
-# Hi there 👋 I'm Özkan
+<!-- MODERN & PROFESSIONAL MARKDOWN CV | ÖZKAN ÖZDURMUŞ -->
 
-- 🔭 I’m currently working on Invenire
-- 🌱 I’m currently learning Metasploit
-- 👯 I’m looking to collaborate on B2B Sustainable Platforms
-- 📫 How to reach me: (https://www.linkedin.com/in/aliozkanozdurmus/)
+<img align="right" src="https://avatars.githubusercontent.com/u/109829260?v=4" width="140" style="border-radius: 50%">
 
+# Özkan Özdurmuş
 
+***Business Development | B2B | Sustainability | Digital Marketing | Cybersecurity***
 
-## My Skils 🛠️:
-<img align="right" width="150" height="150" src="banner2.svg">
-Adobe Creative Cloud Apps; Photoshop, Illustrator and Dreamveawer | 3D; Cinema4D (Digital Skills - Visual),
-cPanel, HTML; CSS and PHP; phpmyadmin (Digital Skills - Web), Dart; Flutter and Android Studio (Digital Skills - Mobile),
-CRM; Hubspot | Mail//Bulletin Marketing Tools; MailChimp, Sendinblue | Google Analytics, Admob | Semrush (Digital
-Skills - Marketing),
-Business Development | Business-to-Business (B2B) | Pricing Marketing and Business Strategy (Industry Knowledge),
-Project Management | Six Sigma | Kaizen | LEED and Sustainability | HUMINT (Industry Knowledge),
-Threat Identification, Investigations and Relationship Building | Analytical Thinking and Teamwork (Interpersonal Skills)
+---
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+## 🚀 About Me
 
+Innovative and tech-driven business development professional, passionate about bridging technology, sustainability, and creative strategy. I focus on delivering robust, sustainable, and impactful digital solutions in B2B markets. Adept at steering complex projects, developing actionable marketing strategies, and building resilient business relationships across industries.
 
+---
 
-### Find me around the web 🌎:
+## 🛠️ Core Skills
 
-<img align="left" width="100" height="100" src="banner.svg"> 
+- **Design & Visualization:**  
+  Adobe Photoshop, Illustrator, Dreamweaver | Cinema4D
 
-- <code><img height="20" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></code>: <a href="https://www.linkedin.com/in/aliozkanozdurmus/">@aliozkanozdurmus</a>
-- <code><img height="20" alt="X" src="https://github.com/aliozkanozdurmus/aliozkanozdurmus/assets/109829260/e4a4ce0d-0f27-482f-82fe-07964caa833e"></code>: <a href="https://aliozkanozdurmus.medium.com/">@aliozkanozdurmus</a>
+- **Web & Mobile Technology:**  
+  HTML, CSS, PHP, cPanel, phpMyAdmin | Dart, Flutter, Android Studio
 
-<img src="bottom.svg">
+- **Marketing & CRM:**  
+  Google Analytics, AdMob, SEMrush | HubSpot, MailChimp, Sendinblue
+
+- **Business & Project Management:**  
+  B2B Development | Pricing Strategy | Project Management | Six Sigma | Kaizen | LEED & Sustainability | HUMINT
+
+- **Cybersecurity:**  
+  Metasploit (foundation level), Threat Analysis & Investigations
+
+- **Interpersonal & Leadership:**  
+  Analytical Thinking | Teamwork & Collaboration | Crisis/Relationship Management
+
+---
+
+## 💼 Experience Snapshot
+
+- 🔭 Currently: Building solutions at **Invenire**
+- 🤝 Actively seeking: B2B sustainable platform collaborations
+- 🌱 Upskilling in: Metasploit & cybersecurity
+- 🌍 Languages: English and Turkish (fluent)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliozkanozdurmus/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://aliozkanozdurmus.medium.com/)
+
+---
+
+## 🏆 GitHub Activity
+
+![Özkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliozkanozdurmus&show_icons=true&theme=vision-friendly-dark)
+![GitHub Snake Animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- END OF CV -->
