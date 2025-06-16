@@ -1,4 +1,4 @@
-<!-- MODERN & PROFESSIONAL MARKDOWN CV | ÖZKAN ÖZDURMUŞ -->
+!-- MODERN & PROFESSIONAL MARKDOWN CV | ÖZKAN ÖZDURMUŞ -->
 
 <img align="right" src="https://avatars.githubusercontent.com/u/109829260?v=4" width="140" style="border-radius: 50%">
 
